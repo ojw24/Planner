@@ -12,6 +12,8 @@ assignees: ojw24
 
 ### API정보
 ```
+  description : 
+
   endpoint : 
   
   method: GET [ ] / POST [ ] / PUT [ ] / DELETE [ ]
